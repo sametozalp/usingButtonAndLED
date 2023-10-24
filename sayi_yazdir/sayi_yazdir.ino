@@ -37,7 +37,6 @@ void loop() {
   digitalWrite(D6, HIGH);
   digitalWrite(D7, HIGH);
 
-  /**********3**********/
   for (int i = 0; i < 10; i++) {
     byte deger = rakamlar[i];
     for (int j = 1 ; j < 8; j++) {
